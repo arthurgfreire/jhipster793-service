@@ -1,0 +1,1 @@
+# jhipster793-service
